@@ -34,7 +34,7 @@
     
 </div>
 
-### Version Control and Development Tools Used:
+### :git: Version Control and Development Tools Used:
 
 <div>
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -43,7 +43,7 @@
 <img alt="VScode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
-### OS familier with:
+### :computer_OS: OS familier with:
 
 <div>
   <img alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
