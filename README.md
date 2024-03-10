@@ -60,6 +60,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-venkatdas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/venkatdas/)
 
+---
+
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=venkatdas
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=venkatdas&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 
 
 
