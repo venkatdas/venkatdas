@@ -6,6 +6,11 @@
 </div>
 
 
+<div id="badges">
+<img src="https://komarev.com/ghpvc/?venkatdas=your-github-username&style=flat-square&color=blue" alt=""/>
+  
+</div>
+
 
 
 
