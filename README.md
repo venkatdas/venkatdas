@@ -76,16 +76,6 @@
 
 ---
 
-### ⚙️ React Ecosystem Tools
-
-- 🧰 State: Redux Toolkit, Zustand, Context API
-- 🌐 Routing: React Router v6
-- 🎨 Styling: Tailwind CSS, SCSS Modules, Styled Components
-- 🧱 UI Libraries: Material UI, Shadcn/UI, Headless UI
-- 🧩 Forms: Formik, React Hook Form, Yup
-- 🔍 Dev Tools: React DevTools, Lighthouse, Axe
-
----
 
 ### ⚙️ React Ecosystem Tools
 
