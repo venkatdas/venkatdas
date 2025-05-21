@@ -62,6 +62,62 @@
 
 ---
 
+### 🧠 What I Excel At
+
+- 🔸 Writing clean, modular and reusable React components
+- 🔸 Optimizing React apps using `useMemo`, `React.memo`, `lazy()`, and `Suspense`
+- 🔸 Implementing accessibility (a11y) best practices
+- 🔸 Managing state with Redux, Zustand, and React Context
+- 🔸 Designing responsive UIs with TailwindCSS & SCSS
+- 🔸 Building enterprise-grade data grids using AG Grid
+- 🔸 Integrating RESTful APIs & GraphQL with Axios / Apollo
+- 🔸 Writing performant forms with Formik + Yup
+- 🔸 Persisting state via IndexedDB/localStorage
+
+---
+
+### ⚙️ React Ecosystem Tools
+
+- 🧰 State: Redux Toolkit, Zustand, Context API
+- 🌐 Routing: React Router v6
+- 🎨 Styling: Tailwind CSS, SCSS Modules, Styled Components
+- 🧱 UI Libraries: Material UI, Shadcn/UI, Headless UI
+- 🧩 Forms: Formik, React Hook Form, Yup
+- 🔍 Dev Tools: React DevTools, Lighthouse, Axe
+
+---
+
+### ⚙️ React Ecosystem Tools
+
+- 🧰 State: Redux Toolkit, Zustand, Context API
+- 🌐 Routing: React Router v6
+- 🎨 Styling: Tailwind CSS, SCSS Modules, Styled Components
+- 🧱 UI Libraries: Material UI, Shadcn/UI
+- 🧩 Forms: Formik, React Hook Form, Yup
+- 🔍 Dev Tools: React DevTools, Lighthouse
+
+---
+
+### 🧠 Problem Solving Journey
+
+- 📌 Currently focused on improving Data Structures & Algorithms (DSA)
+- 📘 Platforms: GeeksforGeeks, LeetCode, and HackerRank
+- 💡 Solving problems in:
+  - Arrays, Strings, and Linked Lists
+  - Trees and Graphs
+  - Stack & Queue
+  - Recursion & Backtracking
+  - Sliding Window, Two Pointers, and Greedy techniques
+- 🎯 Goal: Strengthen my logical thinking to build more optimized React apps
+
+
+### 👨‍💻 Coding Profiles
+
+- [GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/your-username)
+- [LeetCode Profile](https://leetcode.com/your-username)
+- [HackerRank Profile](https://www.hackerrank.com/your-username)
+
+
 ### 📈 GitHub Stats
 
 <div align="center">
