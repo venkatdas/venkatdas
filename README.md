@@ -88,6 +88,17 @@
 
 ---
 
+### 🛠️ Backend Development with Node.js
+
+- 🔧 Proficient in building RESTful APIs using **Express.js**
+- 🗄️ Experience with **CRUD operations**, **middleware**, and **route handling**
+- 🛡️ Implemented authentication & authorization using **JWT**, **bcrypt**
+- 📦 Used **Multer** for file uploads and **Nodemailer** for sending emails
+- 📈 Created reusable API response formats and error handling middleware
+- 🧪 Wrote backend unit tests using **Jest** and **Supertest**
+
+---
+
 ### 🧠 Problem Solving Journey
 
 - 📌 Currently focused on improving Data Structures & Algorithms (DSA)
